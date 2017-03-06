@@ -9,3 +9,7 @@ conda update scikit-learn
 Проверить версию либ
 sklearn.__version__
 np.version.version
+
+
+ставим imbalanced-learn (http://contrib.scikit-learn.org/imbalanced-learn/api.html#module-imblearn.ensemble)
+conda install -c glemaitre imbalanced-learn
